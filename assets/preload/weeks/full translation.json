@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"full translation",
+			"translator",
+			[
+				255,
+				0,
+				120
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "",
+	"weekName": "translator",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "translator",
+	"startUnlocked": true
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "contra el traductor de google",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "traslator",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"traslator",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"translation",
+			"translator",
+			[
+				85,
+				144,
+				244
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "translator",
+	"hiddenUntilUnlocked": false
+}
