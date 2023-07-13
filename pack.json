@@ -1,6 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "VS Google Translator",
+	"description": "The most ridiculous mod you´ll see today, rap against the google translator in one song of 3 minutes",
 	"restart":false,
-	"color": [170, 0, 255]
+	"color": [85, 144, 244]
 }
