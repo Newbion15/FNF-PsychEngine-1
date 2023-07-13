@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "traslatordance",
+	"position": [
+		19,
+		-90
+	],
+	"scale": 1.3,
+	"image": "Menu_Traslator",
+	"flipX": false
+}
