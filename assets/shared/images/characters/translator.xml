@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="translator.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="congrats0000" x="10" y="10" width="956" height="776"/>
+	<SubTexture name="Down0000" x="986" y="10" width="957" height="745"/>
+	<SubTexture name="Idle0000" x="1963" y="10" width="956" height="776"/>
+	<SubTexture name="Left0000" x="2939" y="10" width="961" height="736"/>
+	<SubTexture name="Right0000" x="10" y="806" width="956" height="776"/>
+	<SubTexture name="Up0000" x="986" y="806" width="960" height="747"/>
+	<SubTexture name="swearing0000" x="1966" y="806" width="956" height="776"/>
+	<SubTexture name="wtf0000" x="2942" y="806" width="956" height="776"/>
+</TextureAtlas>
